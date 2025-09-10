@@ -1,0 +1,17 @@
+# فهرست مستندات فارسی Cursor
+
+- [خوش‌آمدگویی](welcome.md)
+- [شروع به کار](get-started.md)
+- [عامل‌ها](agent.md)
+- [عامل پس‌زمینه](background-agent.md)
+- [ویرایش درون‌خطی](inline-edit.md)
+- [زمینه](context.md)
+- [یکپارچه‌سازی‌ها](integrations.md)
+- [مدل‌ها و کلیدها](models.md)
+- [پیکربندی](configuration.md)
+- [CLI و دستورها](cli.md)
+- [راهنماها و آموزش‌ها](guides.md)
+- [تب‌ها](tabs.md)
+- [ابزارها و MCP](tools.md)
+- [حساب، تیم‌ها و قیمت‌گذاری](account.md)
+- [عیب‌یابی](troubleshooting.md)
